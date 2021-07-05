@@ -204,6 +204,16 @@ sections:
     background_image_opacity: 12
     background_image_size: contain
     background_image_repeat: repeat
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: form_section
     template: form_section
     content: >-
